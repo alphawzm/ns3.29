@@ -9,7 +9,7 @@ ns3.29, Ubuntu18
 
 重新配置和编译NS-3，配置行用 --with-pybindgen加上pybindgen所在目录：
 
-sudo ./waf -d debug --enable-examples --enable-tests configure --with-pybindgen=/home/ubuntu18ns3/ns-allinone-3.29/pybindgen-0.17.0.post58+ngcf00cc0/
+#### sudo ./waf -d debug --enable-examples --enable-tests configure --with-pybindgen=/home/ubuntu18ns3/ns-allinone-3.29/pybindgen-0.17.0.post58+ngcf00cc0/
 
 sudo ./waf
 
@@ -25,7 +25,7 @@ line_dash=GooCanvas.LineDash([10.0, 10.0 ])
 
 更改为
 
-line_dash=GooCanvas.CanvasLineDash.newv([10.0, 10.0 ])
+#### line_dash=GooCanvas.CanvasLineDash.newv([10.0, 10.0 ])
 --------------------- 
 作者：ReonLeon 
 来源：CSDN 
