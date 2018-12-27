@@ -1,5 +1,5 @@
 # ns3.29
-ns3.29, Ubuntu18.04
+ns3.29, Ubuntu18.04（$$不使用Ubuntu16）
 
 # Error
 ## Ubuntu16 对于PyVis模块存在目前难以解决的bug
