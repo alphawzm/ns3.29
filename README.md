@@ -1,7 +1,7 @@
 # ns3.29
 **ns3.29, Ubuntu18.04** 
 
-<font color=#0099ff size=12 >不使用Ubuntu16 </font>
+<font color=#00ffff size=12 >不使用Ubuntu16 </font>
 
 # Error
 **Ubuntu16 对于PyVis模块存在目前难以解决的bug**
