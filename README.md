@@ -1,7 +1,8 @@
 # ns3.29
-ns3.29, Ubuntu18
+ns3.29, Ubuntu18.04
 
 # Error
+## Ubuntu16 对于PyVis模块存在目前难以解决的bug
 ### visualizer模块
 依赖PythonBinding，NS3中的PythonBinding由pybindgen完成，但是pybindgen工具在ns-allinone-3.xx目录下，而不是在ns-3.xx目录下，如果移动了ns-3.xx的目录，就无法定位pybindgen进而完成PythonBinding
 
